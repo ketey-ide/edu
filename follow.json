@@ -1,0 +1,17 @@
+<a
+    className={styles.githubCta}
+    href="https://scratch.mit.edu/users/Keyethewizard44/"
+    rel="noopener noreferrer"
+    target="_blank"
+>
+    <img
+        width="24px"
+        src="https://en.scratch-wiki.info/w/images/Scratch_logo.svg"
+        draggable={false}
+    />
+    <FormattedMessage
+        defaultMessage="Follow Ketey IDE on Scratch!"
+        description="Link on the loading screen to the Keyethewizard/Ketey IDE Scratch page"
+        id="gm.loader.scratch"
+    />
+</a>
